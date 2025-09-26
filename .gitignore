@@ -1,0 +1,5 @@
+
+Documentation/
+*.sln
+x64/
+.vs/

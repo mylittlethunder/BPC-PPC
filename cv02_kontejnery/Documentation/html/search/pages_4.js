@@ -1,4 +1,0 @@
-var searchData=
-[
-  ['klíčová_20slova_20pro_20řešení_0',['Klíčová slova pro řešení',['../index.html#autotoc_md5',1,'Klíčová slova pro řešení'],['../index.html#autotoc_md10',1,'Klíčová slova pro řešení']]]
-];
